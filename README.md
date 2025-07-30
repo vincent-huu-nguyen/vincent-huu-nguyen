@@ -33,6 +33,7 @@
 
 <p align="center">
   <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="100"/>
+  <img src="serperior.gif" alt="Serperior" width="200"/>
 </p>
 
 - 💼 [Portfolio Website](https://vincentnguyen.vercel.app)
