@@ -32,7 +32,7 @@
 ### ✉️ Let's Connect
 
 <p align="center">
-  <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="100"/>
+  <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="75"/>
   <img src="serperior.gif" alt="Serperior" width="150"/>
 </p>
 
