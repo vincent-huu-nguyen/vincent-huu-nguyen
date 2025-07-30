@@ -30,12 +30,13 @@
 ---
 
 ### ✉️ Let's Connect
-<p align="center">
-  <img src="serperior.gif" alt="Serperior" width="300"/>
-</p>
 
 - 💼 [Portfolio Website](https://vincentnguyen.vercel.app)
 
 - 📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)
 
 - 🎵 Also on [Spotify](https://open.spotify.com/artist/5qp1vNdznp5vqk6Kvl0oUu?si=bD0Vou67SCOcT5h6iZUuvw) and [Soundcloud](https://soundcloud.com/kingvincev)
+
+<p align="center">
+  <img src="serperior.gif" alt="Serperior" width="300"/>
+</p>
