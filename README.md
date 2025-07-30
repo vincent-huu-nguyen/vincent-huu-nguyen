@@ -27,6 +27,8 @@
 - **Frameworks & Libraries:**  React • Next.js • Three.js • TailwindCSS • Bootstrap • React Three Fiber • Framer Motion • Node.js
 - **Tools and Platforms:**       Git/GitHub • Excel • Visual Studio • Jira • Figma • Vercel • Linux • MATLAB • Unity • Godot
 
+---
+
 ### ✉️ Let's Connect
 
 💼 [Portfolio Website](https://vincentnguyen.vercel.app)
