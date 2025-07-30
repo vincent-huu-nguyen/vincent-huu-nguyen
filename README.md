@@ -29,22 +29,21 @@
 
 ---
 
----
-
 ### ✉️ Let's Connect
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="70%">
 
 💼 [Portfolio Website](https://vincentnguyen.vercel.app)  
 📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)  
 🎵 Also on [Spotify](https://open.spotify.com/artist/5qp1vNdznp5vqk6Kvl0oUu?si=bD0Vou67SCOcT5h6iZUuvw) and [Soundcloud](https://soundcloud.com/kingvincev)
 
-  </td>
-  <td align="center">
-    <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="150"/>
-  </td>
+</td>
+<td width="30%" align="right">
+  <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="160"/>
+</td>
   </tr>
 </table>
+
 
