@@ -29,25 +29,22 @@
 
 ---
 
+---
+
 ### ✉️ Let's Connect
 
-💼 [Portfolio Website](https://vincentnguyen.vercel.app)
+<table>
+  <tr>
+    <td>
 
-📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)
-
+💼 [Portfolio Website](https://vincentnguyen.vercel.app)  
+📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)  
 🎵 Also on [Spotify](https://open.spotify.com/artist/5qp1vNdznp5vqk6Kvl0oUu?si=bD0Vou67SCOcT5h6iZUuvw) and [Soundcloud](https://soundcloud.com/kingvincev)
 
-<!--
-**vincent-huu-nguyen/vincent-huu-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </td>
+  <td align="center">
+    <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="150"/>
+  </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
