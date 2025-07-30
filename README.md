@@ -23,10 +23,17 @@
 
 ### 🛠️ Tech Stack
 
-- Languages:   JavaScript • TypeScript • Python • C# • HTML/CSS • SQL • Java • C
-- Frameworks & Libraries:  React • Next.js • Three.js • TailwindCSS • Bootstrap • React Three Fiber • Framer Motion • Node.js
-- Tools and Platforms:       Git/GitHub • Excel • Visual Studio • Jira • Figma • Vercel • Linux • MATLAB • Unity • Godot
+- **Languages:**   JavaScript • TypeScript • Python • C# • HTML/CSS • SQL • Java • C
+- **Frameworks & Libraries:**  React • Next.js • Three.js • TailwindCSS • Bootstrap • React Three Fiber • Framer Motion • Node.js
+- **Tools and Platforms:**       Git/GitHub • Excel • Visual Studio • Jira • Figma • Vercel • Linux • MATLAB • Unity • Godot
 
+### ✉️ Let's Connect
+
+💼 [Portfolio Website](https://vincentnguyen.vercel.app)
+
+📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)
+
+🎵 Also on [Spotify](https://open.spotify.com/artist/5qp1vNdznp5vqk6Kvl0oUu?si=bD0Vou67SCOcT5h6iZUuvw) and [Soundcloud](https://soundcloud.com/kingvincev)
 
 <!--
 **vincent-huu-nguyen/vincent-huu-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
