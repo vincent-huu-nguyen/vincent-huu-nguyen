@@ -23,10 +23,9 @@
 
 ### 🛠️ Tech Stack
 
-```bash
-Languages:   JavaScript • Python • C# • HTML/CSS • SQL • Java
-Frameworks:  React • Node.js • Express • TailwindCSS • Three.js • Unity • Godot
-Tools:       Git/GitHub • VS Code • Figma • Framer Motion • Firebase • Vercel
+- Languages:   JavaScript • TypeScript • Python • C# • HTML/CSS • SQL • Java • C
+- Frameworks & Libraries:  React • Next.js • Three.js • TailwindCSS • Bootstrap • React Three Fiber • Framer Motion • Node.js
+- Tools and Platforms:       Git/GitHub • Excel • Visual Studio • Jira • Figma • Vercel • Linux • MATLAB • Unity • Godot
 
 
 <!--
