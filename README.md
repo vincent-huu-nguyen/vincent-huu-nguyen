@@ -31,8 +31,12 @@
 
 ### ✉️ Let's Connect
 
--💼 [Portfolio Website](https://vincentnguyen.vercel.app)
+<p align="center">
+  <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="200"/>
+</p>
 
--📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)
+- 💼 [Portfolio Website](https://vincentnguyen.vercel.app)
 
--🎵 Also on [Spotify](https://open.spotify.com/artist/5qp1vNdznp5vqk6Kvl0oUu?si=bD0Vou67SCOcT5h6iZUuvw) and [Soundcloud](https://soundcloud.com/kingvincev)
+- 📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)
+
+- 🎵 Also on [Spotify](https://open.spotify.com/artist/5qp1vNdznp5vqk6Kvl0oUu?si=bD0Vou67SCOcT5h6iZUuvw) and [Soundcloud](https://soundcloud.com/kingvincev)
