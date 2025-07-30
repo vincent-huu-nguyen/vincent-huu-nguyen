@@ -30,11 +30,9 @@
 ---
 
 ### ✉️ Let's Connect
-
 <p align="center">
   <img src="serperior.gif" alt="Serperior" width="200"/>
 </p>
-
 - 💼 [Portfolio Website](https://vincentnguyen.vercel.app)
 
 - 📫 Reach out via the contact form in my site or connect with me on [LinkedIn](https://www.linkedin.com/in/vincent-huu-nguyen/)
