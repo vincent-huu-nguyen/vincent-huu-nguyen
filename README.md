@@ -38,6 +38,6 @@
 - 🎵 Also on [Spotify](https://open.spotify.com/artist/5qp1vNdznp5vqk6Kvl0oUu?si=bD0Vou67SCOcT5h6iZUuvw) and [Soundcloud](https://soundcloud.com/kingvincev)
 
 <p align="center">
-  <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="200"/>
+  <img src="Trainer_Vincent_S.png" alt="Trainer Vincent" width="200"/>
   <img src="serperior.gif" alt="Serperior" width="200"/>
 </p>
