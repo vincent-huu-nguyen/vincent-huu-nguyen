@@ -14,10 +14,10 @@
 ### 🧠 About Me
 
 - 👨‍🎓 Recent Software Engineering graduate from the University of Texas at Arlington  
-- 💻 I build creative, interactive experiences  
-- 🎵 I also produce original soundtracks and sound effects for my projects  
+- 💻 I build creative, interactive experiences    
 - 🤖 Always exploring new tech in AI, web, and game development  
 - ✨ I love turning ideas into engaging digital worlds
+- 🎵 I also produce original soundtracks and beats
 
 ---
 
