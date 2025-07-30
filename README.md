@@ -32,7 +32,7 @@
 ### ✉️ Let's Connect
 
 <p align="center">
-  <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="200"/>
+  <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="100"/>
 </p>
 
 - 💼 [Portfolio Website](https://vincentnguyen.vercel.app)
