@@ -39,5 +39,5 @@
 
 <p align="center">
   <img src="Trainer_Vincent.png" alt="Trainer Vincent" width="100"/>
-  <img src="serperior_cropp.gif" alt="Serperior" width="250"/>
+  <img src="serperior_cropp.gif" alt="Serperior" width="225"/>
 </p>
