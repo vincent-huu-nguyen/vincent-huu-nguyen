@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:**   JavaScript • TypeScript • Python • C# • HTML/CSS • SQL • Java • C
-- **Frameworks & Libraries:**  React • Next.js • Three.js • TailwindCSS • Bootstrap • React Three Fiber • Framer Motion • Node.js
+- **Frameworks & Libraries:**  React • Next.js • Three.js • TailwindCSS • Bootstrap • React Three Fiber • Framer Motion • Node.js • Firebase
 - **Tools and Platforms:**       Git/GitHub • Excel • Visual Studio • Jira • Figma • Vercel • Linux • MATLAB • Unity • Godot
 
 ---
